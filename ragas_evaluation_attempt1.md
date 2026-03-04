@@ -1,10 +1,10 @@
 # RAGAS Evaluation Report
 OWNER:3PILLAR
-ASwdwddDQWDQWDcadcasdd
+
 Evaluation of LlamaIndex-generated answers using RAGAS framework.
-dsdfewefxs
----aaSqsdqefqesa
-dsdfewefxsedsdfsrwrfwr
+
+---
+
 ## Overall Scores
 
 - **Faithfulness**: nan
