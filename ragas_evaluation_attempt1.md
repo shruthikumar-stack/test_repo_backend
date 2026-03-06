@@ -4,15 +4,11 @@ OWNER:3PILLAR
 Evaluation of LlamaIndex-generated answeASDADrs using RAGAS framework.
 test1 thyhyt
 ---
-test2d,kajflk
+test2d,kajflk,mlkml
 ## Overall Scores
 TEST3FVDFBGE
 - **Faithfulness**: nan
-- **Answer Relevancy**: nan
-
-### Score Interpretation
-test4dsgw
-**Faithfulness (0-1):**
+- **Answer Relevancy**: 
 - 0.8-1.0: Excellent - Answer fully supported by context
 - 0.6-0.8: Good - Answer mostly supported
 - 0.4-0.6: Fair - Some hallucination possible
