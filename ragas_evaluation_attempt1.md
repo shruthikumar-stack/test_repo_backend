@@ -4,11 +4,11 @@ OWNER:3PILLAR
 Evaluation of LlamaIndex-generated answers using RAGAS framework.fegetgb
 test multi no1
 ---
-
+fsrfgswregf
 
 ## Summary1
 xfgzdthdtj
-- **Faithfulness**: nan
+- **Faithfulness**: dnan
 - **Answer Relevancy**: 
 - 0.8-1.0: Excellent - Answer fully supported by context
 - 0.6-0.8: Good - Answer mostly supported
