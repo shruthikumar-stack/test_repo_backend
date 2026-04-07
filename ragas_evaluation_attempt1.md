@@ -12,7 +12,7 @@ xfgzdthdtj
 - **Answer Relevancy**: 
 - 0.8-1.0: Excellent - Answer fully supported by context
 - 0.6-0.8: Good - Answer mostly supportedvcvcnbvmhb
-- 0.4-0.6: Fair - Some hallucination possible
+- 0.4-0.6: Fair - Some hallucination possible.kj.kj
 - <0.4: Poor - Significant hallucination likely
 test5aefn.aefjh
 **Answer Relevancy (0-1):**
@@ -25,7 +25,7 @@ test5aefn.aefjh
 
 ## Per-Question Scores
 
-### Question 1vnhgjh,jk
+### Question 1
 
 **Q:** Where is the logic for importing data from PSA in the ENGAGE codebase?...
 
