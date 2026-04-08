@@ -1,26 +1,23 @@
-# RAGAS Evaluation Report--test111abcz
-OWNER:3PILLAR test 40008
+# RAGAS Evaluation Report
+OWNER:3PILLAR 
+test111
 
-Evaluation of LlamaIndex-generated answers using RAGAS framework.fegetgbnhtfjhgfjhg
-test multi no101vhghgncbgchgvmnb
----bvcngchbv
-fsrfgswregf mhgvhgvjhjkkhgkuh nv,jhljhkj;k
+Evaluation of LlamaIndex-generated answers using RAGAS framework.
 
-## Summary1mgfhghvbnbvmhvmhb
-xfgzdthdtj
-- **Faithfulness**: dnan mbvcb,jwdqedfqedfqefd
+## Summary
+- **Faithfulness**
 - **Answer Relevancy**: 
 - 0.8-1.0: Excellent - Answer fully supported by context
 - 0.6-0.8: Good - Answer mostly supportedvcvcnbvmhb
 - 0.4-0.6: Fair - Some hallucination possible
 - <0.4: Poor - Significant hallucination likely
-test5aefn.aefjh
+
 **Answer Relevancy (0-1):**
 - 0.8-1.0: Excellent - Directly answers question
 - 0.6-0.8: Good - Mostly relevant
 - 0.4-0.6: Fair - Somewhat relevant
 - <0.4: Poor - Off-topic
- bgcvmnbnmb
+ 
 ---
 
 ## Per-Question Scores
