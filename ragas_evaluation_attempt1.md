@@ -4,7 +4,7 @@ Evaluation of LlamaIndex-generated answers using RAGAS framework
 TEST4tvhr657u57u7
 
 ## Summary1mgfhghvbnbvmhvmhb
-xfgzdthdtj
+xfgzdthdtjcdcwevc
 - **Faithfulness**: dnan mbvcb,jwdqedfqedfqefd
 - **Answer Relevancy**: 
 - 0.8-1.0: Excellent - Answer fully supported by context
