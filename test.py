@@ -1,1 +1,1 @@
-print("hib nbv,jhjh")
+print("hib nbv,jh")
