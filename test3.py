@@ -1,2 +1,2 @@
 print("hello n hi")
-print(abc)
+print(a)
