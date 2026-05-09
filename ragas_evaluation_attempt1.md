@@ -1,6 +1,3 @@
-# test2b
-hello123
-test3:hello11
 # RAGAS Evaluation Report--test111abcz
 OWNER:3PILLAR hgfjhg
 Evaluation of LlamaIndex-generated answers using RAGAS framework
